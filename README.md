@@ -4,11 +4,11 @@ I am working on this as a **personal project** to teach myself web development. 
 
 By the time this is over I should have:
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] A fully functioning site with responsive design with Javascript code.
+- [ ] Beautiful Visuals and an aestetically pleasing website.
 - [ ] Add delight to the experience when all tasks are complete :tada:
-1. A fully functioning site with responsive design with Javascript code.
-2. Beautiful Visuals and an aestetically pleasing website.
-3. A way to take friends inputs and turn them into automatically generated graphs that update upon new responses or changed to responses.
+1. 
+2. A way to take friends inputs and turn them into automatically generated graphs that update upon new responses or changed to responses.
+3. 
 4. A way to sign up, do a captcha as a user signs up to avoid bot flooding, and a way for me to email verify users and approve their accounts.
 
