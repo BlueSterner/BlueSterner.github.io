@@ -14,3 +14,4 @@ By the time this is over I should have:
 - [ ] A fully functioning site with responsive design with Javascript code.
 - [ ] A way to take friends inputs and turn them into automatically generated graphs that update upon new or changed responses. :bar_chart:
 - [ ] A way to sign up, do a captcha as a user signs up, and a way for me to email verify users and approve their accounts. 📩
+You can find the main website page here: https://bluesterner.github.io/
