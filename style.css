@@ -1,0 +1,72 @@
+.container{
+    width: 10px;
+    height: 56.25px;
+}
+
+body{
+    background-color:#00081d;
+}
+
+#inlineform{
+    display:flex;
+}
+
+h1{
+    font-size:4em;
+    color:rgb(248, 223, 226); 
+    font-family:arial, tahoma;
+    text-align:center;
+    font-weight:500;
+    text-transform:capitalize;
+    text-shadow: 1px 0px 1px whitesmoke ;
+    background-color:#00081d;
+    text-decoration:dotted underline overline rgb(231, 191, 198);
+}
+
+#ph{
+    height:10px;width:300px;
+}
+
+.form{
+    color:whitesmoke;text-align:center;font-size:20px;background-color:black;border:2px solid rgb(247, 226, 228);
+    height:250px;width:30%; padding: 10px;margin:170;font-family:'Courier New', Courier, monospace;border-radius:15px;cursor:pointer;position:relative;
+}
+
+a:link{
+    color:#8cafdd;
+}
+
+a:hover{
+    color:rgb(11, 103, 156);
+    text-decoration:none
+}
+
+a:active{
+    color:rgb(0, 74, 211);
+}
+
+a:visited{
+    color:rgb(247, 226, 228);
+    text-decoration:none
+}
+
+#top:link{
+    color:#8cafdd;
+}
+#top:hover{
+    color:rgb(11, 103, 156);
+    text-decoration:none
+}
+
+#top:active{
+    color:rgb(0, 74, 211);
+}
+
+#top:visited{
+    color:rgb(248, 223, 226);
+    text-decoration:none
+}
+
+
+
+
